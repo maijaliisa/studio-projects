@@ -1,9 +1,9 @@
 ---
 
-title: Contact me
+title: Let's chat 
 
 ---
 
-* [Twitter](http://twitter.com/blahblah)
-* [user@example.com](mailto:user@example.com)
-* [Instagram](http://instagram.com/blahblah)
+* [Twitter](https://twitter.com/MaijaEhlinger)
+* [user@example.com](maija.ehlinger@gmail.com)
+* [Instagram](https://www.instagram.com/maijaehlinger/)
