@@ -1,0 +1,120 @@
+"Notes"	"Census Region"	"Census Region Code"	"County"	"County Code"	Births	% of Total Births	Total Population	Birth Rate	Female Population	Fertility Rate	Average Age of Mother
+	"Census Region 3: South"	"CENS-R3"	"Bartow County, GA"	"13015"	1304	0.99%	102747	12.69	20199	64.56	26.88
+	"Census Region 3: South"	"CENS-R3"	"Bibb County, GA"	"13021"	2315	1.76%	153721	15.06	31964	72.43	26.72
+	"Census Region 3: South"	"CENS-R3"	"Carroll County, GA"	"13045"	1522	1.16%	114545	13.29	24965	60.97	26.77
+	"Census Region 3: South"	"CENS-R3"	"Chatham County, GA"	"13051"	4149	3.16%	286956	14.46	63391	65.45	27.94
+	"Census Region 3: South"	"CENS-R3"	"Cherokee County, GA"	"13057"	2642	2.01%	235900	11.20	46503	56.81	29.45
+	"Census Region 3: South"	"CENS-R3"	"Clarke County, GA"	"13059"	1376	1.05%	123912	11.10	37167	37.02	28.35
+	"Census Region 3: South"	"CENS-R3"	"Clayton County, GA"	"13063"	3804	2.89%	273955	13.89	62666	60.70	27.42
+	"Census Region 3: South"	"CENS-R3"	"Cobb County, GA"	"13067"	9658	7.35%	741334	13.03	159899	60.40	29.85
+	"Census Region 3: South"	"CENS-R3"	"Columbia County, GA"	"13073"	1662	1.26%	144052	11.54	29554	56.24	28.96
+	"Census Region 3: South"	"CENS-R3"	"Coweta County, GA"	"13077"	1586	1.21%	138427	11.46	27582	57.50	28.34
+	"Census Region 3: South"	"CENS-R3"	"DeKalb County, GA"	"13089"	11095	8.44%	734871	15.10	166783	66.52	29.24
+	"Census Region 3: South"	"CENS-R3"	"Douglas County, GA"	"13097"	1828	1.39%	140733	12.99	30410	60.11	28.07
+	"Census Region 3: South"	"CENS-R3"	"Fayette County, GA"	"13113"	866	0.66%	110714	7.82	19012	45.55	30.32
+	"Census Region 3: South"	"CENS-R3"	"Forsyth County, GA"	"13117"	2175	1.66%	212438	10.24	40956	53.11	30.73
+	"Census Region 3: South"	"CENS-R3"	"Fulton County, GA"	"13121"	13579	10.33%	1010562	13.44	232857	58.31	29.43
+	"Census Region 3: South"	"CENS-R3"	"Gwinnett County, GA"	"13135"	11519	8.77%	895823	12.86	191845	60.04	29.57
+	"Census Region 3: South"	"CENS-R3"	"Hall County, GA"	"13139"	2741	2.09%	193535	14.16	37537	73.02	27.67
+	"Census Region 3: South"	"CENS-R3"	"Henry County, GA"	"13151"	2591	1.97%	217739	11.90	47200	54.89	28.26
+	"Census Region 3: South"	"CENS-R3"	"Houston County, GA"	"13153"	2033	1.55%	150033	13.55	31301	64.95	27.58
+	"Census Region 3: South"	"CENS-R3"	"Lowndes County, GA"	"13185"	1710	1.30%	112865	15.15	26347	64.90	26.81
+	"Census Region 3: South"	"CENS-R3"	"Muscogee County, GA"	"13215"	3021	2.30%	200579	15.06	42018	71.90	26.61
+	"Census Region 3: South"	"CENS-R3"	"Paulding County, GA"	"13223"	1609	1.22%	152238	10.57	32569	49.40	28.19
+	"Census Region 3: South"	"CENS-R3"	"Richmond County, GA"	"13245"	3054	2.32%	201793	15.13	42622	71.65	26.72
+	"Census Region 3: South"	"CENS-R3"	"Whitfield County, GA"	"13313"	1455	1.11%	104216	13.96	20777	70.03	26.75
+	"Census Region 3: South"	"CENS-R3"	"Unidentified Counties, GA"	"13999"	42110	32.05%	3461172	12.17	653760	64.41	26.55
+"Total"	"Census Region 3: South"	"CENS-R3"			131404	100.00%	10214860	12.86	2119884	61.99	28.01
+"Total"					131404	100.00%	10214860	12.86	2119884	61.99	28.01
+"---"
+"Dataset: Natality, 2007-2015"
+"Query Parameters:"
+"Title:"
+"Age of Mother 9: All"
+"Birthplace: All"
+"Birth Weight 12: All"
+"Chronic Hypertension: All"
+"Delivery Method: All"
+"Diabetes: All"
+"Eclampsia: All"
+"Education: All"
+"Gender: All"
+"Hispanic Origin: All"
+"Live Birth Order: All"
+"LMP Gestational Age 11: All"
+"Marital Status: All"
+"Medical Attendant: All"
+"Month: All"
+"Month Prenatal Care Began: All"
+"OE Gestational Age 11: All"
+"Plurality or Multiple Birth: All"
+"Pregnancy-associated Hypertension: All"
+"Race: All"
+"States: Georgia (13)"
+"Tobacco Use: All"
+"Weekday: All"
+"Year: 2015"
+"Group By: Census Region, County"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: Default intercensal populations for years 2007-2009"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality.html for more information."
+"---"
+"Query Date: Jul 15, 2017 1:09:36 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics, Natality public-use data 2007-2015, on CDC"
+"WONDER Online Database, February 2017. Accessed at http://wonder.cdc.gov/natality-current.html on Jul 15, 2017 1:09:36 PM"
+"---"
+Caveats:
+"1. Each birth record represents one living baby."
+"2. County-level data are shown only for counties with populations of 100,000 persons or more. Within each state, data for all"
+"counties with fewer than 100,000 persons are combined together under the label ""Unidentified Counties."""
+"3. These items in the results table are not fully selected: Census Region 3: South. The Query Description lists the actual"
+"values selected."
+"4. Birth rates are calculated as the number of births divided by total population in the given year(s). When the numerator is"
+"sub-set by mother's race, location, or year of birth, then the same sub-set for age, race, location and year applies to the"
+"denominator population."
+"5. Fertility rates are calculated as the number of births divided by the number of females age 15 - 44 years old in the given"
+"year(s). When the numerator is sub-set by mother's age, mother's race, location, or year of birth, then the same sub-set for"
+"age, race, location and year applies to the denominator population. However, if you sub-set mother's age selecting some years"
+"not in the 15 - 44 range, those years of mother's age ouside this range will not be included in the denominator population. If"
+"you sub-set mother's age selecting only years outside the 15 - 44 range, the denominator population returned will be zero and"
+"flagged ""Not Available""."
+"6. As a result of population changes the following counties do not have data available for all years.<br/> Before 2014 the data"
+"for the following counties was recoded to the ""Unidentified Counties"" category within the state of the county because they did"
+"not meet minimum population standards. Houston County, AL (01069); Navajo County, AZ (04017); Faulkner County, AR (05045);"
+"Saline County, AR (05125); Bartow County, GA (13015); Carroll County, GA (13045); Columbia County, GA (13073); Coweta County, GA"
+"(13077); Douglas County, GA (13097); Fayette County, GA (13113); Forsyth County, GA (13117); Lowndes County, GA (13185);"
+"Paulding County, GA (13223); Whitfield County, GA (13313); Bonneville County, ID (16019); DeKalb County, IL (17037); Kendall"
+"County, IL (17093); Clark County, IN (18019); Douglas County, KS (20045); Boone County, KY (21015); Hardin County, KY (21093);"
+"Warren County, KY (21227); Ascension Parish, LA (22005); Bossier Parish, LA (22015); Livingston Parish, LA (22063); Cecil"
+"County, MD (24015); St. Mary's County, MD (24037); Scott County, MN (27139); Wright County, MN (27171); Franklin County, MO"
+"(29071); Missoula County, MT (30063); Sandoval County, NM (35043); Tompkins County, NY (36109); Brunswick County, NC (37019);"
+"Craven County, NC (37049); Harnett County, NC (37085); Henderson County, NC (37089); Miami County, OH (39109); Canadian County,"
+"OK (40017); Adams County, PA (42001); Dorchester County, SC (45035); Pennington County, SD (46103); Wilson County, TN (47189);"
+"Comal County, TX (48091); Guadalupe County, TX (48187); Hays County, TX (48209); Kaufman County, TX (48257); Parker County, TX"
+"(48367); Cache County, UT (49005); Washington County, UT (49053); Spotsylvania County, VA (51177); Stafford County, VA (51179);"
+"Cowlitz County, WA (53015); Berkeley County, WV (54003); Fond du Lac County, WI (55039); Walworth County, WI (55127). <br/>"
+"After 2013 the data for the following counties was recoded to the ""Unidentified Counties"" category within the state of the"
+"county because they did not meet minimum population standards. Cape May County, NJ (34009); Portsmouth city, VA (51740)."
+"7. Caution should be used when interpreting the Average Age of Mother measure. All ages 12 years and less are coded to 12 years."
+"All ages 50 years and over are coded to 50 years. The number of counts in those two age goups are small and should not have a"
+"great effect on the average age. Consider doing queries with and without these two age groups and compare the effect on Average"
+"Age of Mother measure."
+"8. Please note that the Percent of Total presented here may not be consistent with percentages published by NCHS. NCHS excludes"
+"births categorized as ""Unknown"", ""Not Stated"", ""Not on Certificate"", ""Excluded"", and ""Not Reported"" from the"
+"denominator when calculating percentages."
+"9. Birth rates and fertility rates are calculated using the following populations: The populations for year 2015 are from the"
+"postcensal bridged-race series of July 1st estimates of the resident population, released by NCHS on June 28, 2016. The"
+"populations for year 2014 are from the postcensal bridged-race series of July 1st estimates of the resident population, released"
+"by NCHS on June 30, 2015. The populations for year 2013 are from the postcensal bridged-race series of July 1st estimates of the"
+"resident population, released by NCHS on June 26, 2014. The populations for year 2012 are from the postcensal bridged-race"
+"series of July 1st estimates of the resident population, released by NCHS on June 13, 2013. The populations for year 2011 are"
+"from the postcensal bridged-race series of July 1st estimates of the resident population, released by NCHS on July 18, 2012. The"
+"populations for year 2010 are the bridged-race April 1, 2010 Census counts. The populations for years 2007-2009 are from the"
+"revised intercensal bridged-race series of July 1st estimates of the resident population, released by NCHS on October 26, 2012."
+"More information: http://wonder.cdc.gov/wonder/help/Natality.html#Denominator-Population-Sources."
