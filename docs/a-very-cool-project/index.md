@@ -11,13 +11,16 @@ The sheer spectacle of a marathon continues to capture athletes and non-athletes
 
 Within the biggest American-held marathons in 2016/2017, 42% traveled out of state or out of the country to compete. Every state in the Union was represented, but North Carolina, Texas and New Hampshire sent the most runners per capita to the most iconic of races - Boston.  
 
-# Boston Marathon Finishers By The Numbers 
+## Boston Marathon Finishers By The Numbers 
 
 ![](Lede_Image_Boston2.png)
 
 Qualifying for the Boston Marathon is based on time/age rates, making it one of the most competitive races for which you can gain entry. But it is not the only race in the US that will get active runners to travel across the country. Of other top US marathons, Chicago attracts the most out-of-town runners (nearly double those who head to the similarly-sized LA Marathon).
 
-# LA and Chicago Marathon Finishers By Category 
+## LA and Chicago Marathon Finishers By Category 
 ![](Compare.png)
 
+
+## See How Your State Ranked In Boston, LA & Chicago Marathongs
+![](chart.png)
 
