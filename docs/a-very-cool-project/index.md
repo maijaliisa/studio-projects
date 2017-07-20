@@ -13,8 +13,8 @@ Of the top 5 biggest marathons on 2016/2017, 42% traveled out of state or out of
 
 # Boston Marathon Finishers By The Numbers 
 
-![](Lede_Image_Boston.png)
+![](Lede_Image_Boston2.png)
 
-Qualifying for the Boston Marathon is based on time/age rates, making it one of the most competitive races for which you can gain entry. But other large races, such as LA and Chicago (which have a slightly more open registration system), actually attract even more out-of-towners on race day. 
+Qualifying for the Boston Marathon is based on time/age rates, making it one of the most competitive races for which you can gain entry. But other large races, such as LA and Chicago (which have a slightly more open registration system), actually attract even more out-of-towners on race day. Specifically, 
 
 ![](Compare.png)
