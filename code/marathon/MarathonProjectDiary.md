@@ -15,5 +15,16 @@ http://jonathansoma.com/lede/foundations-2017/classes/pandas-forever/class/
 https://stackoverflow.com/questions/13411544/delete-column-from-pandas-dataframe
  
  
-CHARTS TO CREATE DAY TWO: 
--
+CHARTS CREATED DAY TWO and THREE: 
+-Spent the day working with age/state data...though many of the graphs that I produced were not actually interesting 
+
+
+THIS TO WORK ON:
+I wanted to find a way to 'map' out of state runners, but it isn't actually all that interesting geographically. 
+The problem is that the datasets don't match up demographically. 
+
+Boston --> Don't have international runners or age..making it hard to do a full comparison across all three marathons! 
+
+
+What is next: 
+I need to figure out how to use all of the additional information about age/gender/state included 
