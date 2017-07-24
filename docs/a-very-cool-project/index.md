@@ -21,8 +21,7 @@ Massachusetts of course had the most runners for its population, but that doesn'
 
 ## Finishers Per State 
 
-![](THIS_ONE_MENTOTAL.png)
-![](THIS_ONE_WOMENTOTAL.png)
+![](THIS_ONE_MENTOTAL.png) ![](THIS_ONE_WOMENTOTAL.png)
 
 
 
