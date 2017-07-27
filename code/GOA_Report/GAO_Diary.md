@@ -30,5 +30,15 @@ STEP ONE:
 
  For the purposes of this...I will only look at Executive, Judicial, Legislative Agencies 
 
+ UPDATES:
+-07/26
+After 3 days of scraping and trying to figure out something interesting...I realized I was going down the 'cure cancer' route of everything. So I am basically starting from square one with a much more specific goal: LOOK AT OPEN PRIORITY RECOMMENDATIONS! 
+-track by: agency, topic and date opened 
 
- 
+Will start a new notebook GAO_PROJECT_ATTEMPT_TWO.ipynb
+
+STEP ONE: 
+Just searching open Priority Items, I learned from my previous mistakes that scrapping this website is too much for me right now. So I just created my own CSV files of information I want to look at 
+
+STEP TWO:
+Got on the phone and emailed the Research Team at GAO....hopefully that will be more helpful.... 
