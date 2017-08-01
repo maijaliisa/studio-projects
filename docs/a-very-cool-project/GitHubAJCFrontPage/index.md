@@ -9,9 +9,10 @@ layout: project
 
 ![](IMG_5452 2.jpg)
 
-##### Headlines in regional papers have become decisively more political. Changes in trending topis suggest that the national rhetoric in the post-2016 election is changing the shape of local news. 
+##### Headlines in regional papers have become decisively more political. Trending topics suggest that the national rhetoric in the post-2016 election is changing the shape of local news. 
 
-2016 was the 'Year of Trump' for national news. Cable TV, national newspapers, late night talk shows and individual's mobile newsfeeds followed the Trump/Clinton election closer than ever, causing a shift in how journalists and the public at large interacted with politics. But it also may have disporportionately shifted the business of local news.
+
+2016 was the 'Year of Trump' for national news. Cable TV, national newspapers, late night talk shows and individual's mobile newsfeeds followed the Presidential Election closer than ever, causing a shift in how journalists and the public at large interacted with politics. But it also may have disporportionately shifted the business of local news.
 
 ![](newWhatiscoveredAJC.png)
 
