@@ -7,7 +7,7 @@ layout: project
 
 ## The Trump Effect On Local News
 
-2016 could only be defined as the 'Year of Trump' for national news, as close to __% of airtime was dedicated to his campaign (or his Twitter account). But the constant spotlight on the national Presidential race may have had disproportionate influence on local news outlets as well. 
+2016 can only be defined as the 'Year of Trump' for national news.  But the constant spotlight on the national Presidential race may have had disproportionate influence on local news outlets as well. 
 
 ![](newWhatiscoveredAJC.png) *35% of Atlanta-focused stories that ran in the Atlanta Journal Constitution mentioned Trump. 
 
