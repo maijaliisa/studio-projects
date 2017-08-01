@@ -9,7 +9,7 @@ layout: default
 
 <strong>Cool projects are being created and written for the [2017 Lede Program](http://ledeprogram.com):</strong>
 
-* [Project 1]({{ site.url }}/a-very-cool-project): The Trump Effect On Local News
+* [Project 1]({{ site.url }}/a-very-cool-project/GitHubAJCFrontPage): The Trump Effect On Local News
 * [Project 2]({{ site.url }}/a-very-cool-project): Coming soon
 * [Project 3]({{ site.url }}/a-very-cool-project): Coming soon
 
