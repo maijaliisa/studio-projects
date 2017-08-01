@@ -9,7 +9,7 @@ layout: project
 
 2016 could only be defined as the 'Year of Trump' for national news, as close to __% of airtime was dedicated to his campaign (or his Twitter account). But the constant spotlight on the national Presidential race may have had disproportionate influence on local news outlets as well. 
 
-![](leadgraphicexport.png) *35% of Atlanta-focused stories that ran in the Atlanta Journal Constitution mentioned Trump. 
+![](newWhatiscoveredAJC.png) *35% of Atlanta-focused stories that ran in the Atlanta Journal Constitution mentioned Trump. 
 
 Between the 2012 and 2016 elections, the Atlanta Journal Constitution's coverage of politics rose 120%. Coverage of ther major topics, particularly Atlanta's budding technology, film and business sectors, remained relatively unchnaged over the four year period. 
 
