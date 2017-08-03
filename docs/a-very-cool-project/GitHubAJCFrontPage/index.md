@@ -13,7 +13,7 @@ layout: project
 
 2016 was the 'Year of Trump' for national news. Cable TV, national newspapers, late night talk shows and individual's mobile newsfeeds followed the Presidential Election closer than ever, shifting how journalists and the public at large interacted with politics. But it also may have disporportionately changed how local news determines coverage. 
 
-![](frontpagepoliticsforgithub.png)
+![](frontpagepoliticsforgithub.png = 200x50)
 
 The Atlanta Journal Constitution - a Cox Enterprise paper run headquartered in the suburbs of Atlanta - plays a key role in reporting on business, politics and social isues within one of the fastest growing Metro areas in the United States. But between the 2012 and 2016 elections, the Atlanta Journal Constitution's coverage of American politics (both regional and national) rose 120%. Coverage of other major topics, particularly Atlanta's budding technology, film and business sectors, remained relatively unchanged over the four year period.
 
