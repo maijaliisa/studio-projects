@@ -11,4 +11,4 @@ layout: project
 ##### Text to go here  
 
 
-![](totalTRUE.png)
+![](totalTRUE.png)(./pic/pic1_50.png =500x500)
