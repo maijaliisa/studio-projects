@@ -19,4 +19,10 @@ Now I will focus on change over time of political coverage. I am particularly in
 
 HELPFUL LINKS FOR MATPLOTLIB: 
 Area Charts: https://pandas.pydata.org/pandas-docs/stable/visualization.html 
+https://stackoverflow.com/questions/35181265/calculate-percent-change-on-a-pandas-dataframe 
+
+
+Day Two: Working with Illustrator in order to create graphics.
+
+Day Three: Based on Bui's suggestions, I've determined that I need to do a slope chart and a area graph 
 

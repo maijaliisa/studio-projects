@@ -10,6 +10,6 @@ layout: default
 <strong>Cool projects are being created and written for the [2017 Lede Program](http://ledeprogram.com):</strong>
 
 * [The Trump Effect On Local News]({{ site.url }}/a-very-cool-project/GitHubAJCFrontPage): Analyzing 2016 headlines from the Atlanta Journal Constitution to explore how national politics influences local journalism 
-* [Project 2]({{ site.url }}/a-very-cool-project): Coming soon
+* [Quantifying Government Accountability]({{ site.url }}/a-very-cool-project/GitHubFirstGAO): Coming soon
 * [Project 3]({{ site.url }}/a-very-cool-project): Coming soon
 
