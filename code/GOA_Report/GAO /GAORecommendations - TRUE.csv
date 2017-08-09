@@ -1,0 +1,39 @@
+Topic,Department,Count,Agency
+Government Operations,Agriculture,1,executive
+Government Operations,Commerce,17,executive
+Government Operations,Defense,14,executive
+Government Operations,Education,1,executive
+Government Operations,Energy,3,executive
+Government Operations,General Services Administration,7,executive
+Government Operations,HHS,6,executive
+Government Operations,Interior,2,executive
+Government Operations,Justice,9,executive
+Government Operations,NASA,5,executive
+Government Operations,National Science Foundation,1,executive
+Government Operations,Nuclear,1,executive
+Government Operations,Personnel Management,10,executive
+Government Operations,President,20,executive
+Government Operations,Small Business,6,Independent
+Government Operations,Social Security ,2,Independent
+Government Operations,State,9,executive
+Government Operations,Treasury,3,executive
+Government Operations,VA,1,executive
+Cybersecurity,Agriculture,1,executive
+Cybersecurity,Commerce,2,executive
+Cybersecurity,Defense,12,executive
+Cybersecurity,Education,1,executive
+Cybersecurity,Energy,1,executive
+Cybersecurity,EPA,6,executive
+Cybersecurity,General Services Administration,1,executive
+Cybersecurity,HHS,1,executive
+Cybersecurity,HUD,3,executive
+Cybersecurity,Justice,3,executive
+Cybersecurity,NASA,8,executive
+Cybersecurity,Nuclear,1,executive
+Cybersecurity,Personnel Management,8,executive
+Cybersecurity,President,5,executive
+Cybersecurity,Small Business,3,Independent
+Cybersecurity,State,1,executive
+Cybersecurity,Transportation,3,executive
+Cybersecurity,Treasury,6,executive
+Cybersecurity,VA,2,executive
