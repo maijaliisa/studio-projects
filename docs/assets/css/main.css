@@ -1,5 +1,5 @@
 .container {
-  width: 700px;
+  width: 730px;
   color: #333;
   margin: 0 auto;
   padding-bottom: 60px;
@@ -44,6 +44,6 @@ a {
   img {
     display: block;
     margin: auto;
-    width: 100%;
+    width: 110%;
 }
 

@@ -13,13 +13,16 @@ layout: project
 
 2016 was the 'Year of Trump' for national news. Cable TV, national newspapers, late night talk shows and individual's mobile newsfeeds followed the Presidential Election closer than ever, shifting how journalists and the public at large interacted with politics. But it also may have disporportionately changed how local news determines coverage. 
 
+
 ![](frontpagepoliticsforgithub.png)
+
 
 The Atlanta Journal Constitution - a Cox Enterprise paper run headquartered in the suburbs of Atlanta - plays a key role in reporting on business, politics and social isues within one of the fastest growing Metro areas in the United States. But between the 2012 and 2016 elections, the Atlanta Journal Constitution's coverage of American politics (both regional and national) rose 120%. Coverage of other major topics, particularly Atlanta's budding technology, film and business sectors, remained relatively unchanged over the four year period.
 
+
 ### Political Reporting In The Age Of Trump 
 
-![](newaddition.png)
+
 
 AJC's decision to increase political coverage is most likely a result of multiple factors. First, of course, the Trump/Clinton 2016 race captured the attention of the American public more than the Obama/Romney 2012 race, making it a critical part of local life and dialogue. It is also important to note that 2016 saw several high-profile Georgians enter the national poltical sphere, namly Tom Price and Sonny Perdue as early additions to Trump's cabinet, making political coverage a more central part of Georgia journalism.
 
