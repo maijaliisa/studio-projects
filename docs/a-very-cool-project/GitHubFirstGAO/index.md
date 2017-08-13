@@ -23,16 +23,18 @@ As a non-partisan agency within the US Federal Government, GAO provides a crucia
 
 
 
+![](Artboard 1@2x.png)
 
 
-![](totalTRUE.png)
+More than 75% of incompleted GAO reports are within the Executive Branch, mostly falling within Departments that report directly to the President of the United States.
 
+Since its founding GAO has prepared over 54,000 reports across the Federal Government. 32,000 of these have been within Executive Branch agencies, 10,000 within Independent agencies and 2,250 within Legislative agencies and 184 within Judicial branch agencies. 
 
-More than 75% of incompleted GAO reports are within the Executive Branch, mostly falling within Departments that report directly to the President of the United States. 
+GAO's database is constantly updated as agencies make progress on potential areas of fraud or mismanagement. An interesting trend emerges when looking at what topics are most often tagged as Priority Items by the GAO. 
 
-<br>
+(Add Sankey Diagram here) 
 
-</br>
+GAO has placed a priority on cybersecurity efforts and overall government operations for the last decade. While there are some priority recommendations have been open for over a decade (the oldest non-addressed item dating back to 2004), those currently open under the label of cybersecurity showcase how no part of the Federal Government is fully secure or ready for the 21st century.
 
 
 
