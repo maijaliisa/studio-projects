@@ -32,7 +32,7 @@ Since its founding GAO has prepared over 54,000 reports across the Federal Gover
 
 GAO's database is constantly updated as agencies make progress on potential areas of fraud or mismanagement. An interesting trend emerges when looking at what topics are most often tagged as Priority Items by the GAO. 
 
-(Add Sankey Diagram here) 
+![](SANKEYGAO.png) 
 
 GAO has placed a priority on cybersecurity efforts and overall government operations for the last decade. While there are some priority recommendations have been open for over a decade (the oldest non-addressed item dating back to 2004), those currently open under the label of cybersecurity showcase how no part of the Federal Government is fully secure or ready for the 21st century.
 
