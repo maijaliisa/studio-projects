@@ -9,7 +9,7 @@ layout: project
 
 ##### Maija-Liisa Ehlinger
 
-
+<h6>Accountability across the Federal Government is difficult to fully quantify. But GAO's open priority database shows that mismanagement is centralized in the Executive and Independent Agencies.  </h6>
 
 Want to know the daily climate of Washington?
 Check Twitter.
@@ -36,4 +36,5 @@ GAO's database is constantly updated as agencies make progress on potential area
 
 GAO has placed a priority on cybersecurity efforts and overall government operations for the last decade. While there are some priority recommendations have been open for over a decade (the oldest non-addressed item dating back to 2004), those currently open under the label of cybersecurity showcase how no part of the Federal Government is fully secure or ready for the 21st century.
 
+GAO's priority database is updated as recommendations are met or new audits are made and can be explored [here](http://www.gao.gov/resources/presidential-transition/priority-recommendations).
 
