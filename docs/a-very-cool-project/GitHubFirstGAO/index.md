@@ -23,7 +23,7 @@ As a non-partisan agency within the US Federal Government, GAO provides a crucia
 
 Members of Congress request for GAO to audit or review of any agency or department within the Federal Government. Currently all open and tagged priority recommendations are within Executive Branch Agencies or Independent Agencies. None are within the Judicial or Legislative Branch.
 
-![](newtreediagram.png)
+![](reallynewtreediagram@2x.png)
 
 
 More than 75% of incompleted GAO reports are within the Executive Branch, mostly falling within Departments that report directly to the President of the United States.
