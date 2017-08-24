@@ -16,7 +16,6 @@ In a year of unprecidented volatility in Washington, Trump's Presidential Cabine
 
 But turnover in the Presidential Cabinet has been a growing political trend since World War II and can be seen as a metric for political stability in Washington. The sharp increase in acting cabinet members also suggests that Federal Agency positions are becoming more politicized. Even when recent presidents have had party concensus they have an increasingly difficult time adding or maintaining key cabinet positions.
 
-
 ![](newleadingimage@2x.png)
 
 According to the [Washington Post](https://www.washingtonpost.com/graphics/politics/how-long-confirmations-will-take/), Trump had to wait an average of 25 days for the Senate to approve his top cabinet picks (a significantly long time given the Republican control in Congress). This delayed confirmation process required acting members to remain in key positions for longer than average.
