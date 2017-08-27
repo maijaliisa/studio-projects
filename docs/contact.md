@@ -4,6 +4,6 @@ title: Let's chat
 
 ---
 
-* [Twitter](https://twitter.com/MaijaEhlinger)
-* [user@example.com](maija.ehlinger@gmail.com)
-* [Instagram](https://www.instagram.com/maijaehlinger/)
+* [Follow along on Twitter](https://twitter.com/MaijaEhlinger)
+* [Connect via email](maija.ehlinger@gmail.com)
+* [@maijaehlinger on Instagram](https://www.instagram.com/maijaehlinger/)
