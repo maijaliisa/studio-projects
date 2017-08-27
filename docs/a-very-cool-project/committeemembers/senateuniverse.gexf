@@ -1,0 +1,547 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Susan Collins" label="Susan Collins" />
+      <node id=" Committee on Aging" label=" Committee on Aging" />
+      <node id="Orrin Hatch" label="Orrin Hatch" />
+      <node id="Jeff Flake" label="Jeff Flake" />
+      <node id="Tim Scott" label="Tim Scott" />
+      <node id="Thom Tillis" label="Thom Tillis" />
+      <node id="Bob Corker" label="Bob Corker" />
+      <node id="Richard Burr" label="Richard Burr" />
+      <node id="Marco Rubio" label="Marco Rubio" />
+      <node id="Deb Fischer" label="Deb Fischer" />
+      <node id="Bob Casey" label="Bob Casey" />
+      <node id="Bill Nelson" label="Bill Nelson" />
+      <node id="Sheldon Whitehouse" label="Sheldon Whitehouse" />
+      <node id="Kirsten Gillibrand" label="Kirsten Gillibrand" />
+      <node id="Richard Blumenthal" label="Richard Blumenthal" />
+      <node id="Joe Donnelly" label="Joe Donnelly" />
+      <node id="Elizabeth Warren" label="Elizabeth Warren" />
+      <node id="Catherine Cortez Masto" label="Catherine Cortez Masto" />
+      <node id="Pat Roberts" label="Pat Roberts" />
+      <node id=" Agriculture Nutrition Forestry" label=" Agriculture Nutrition Forestry" />
+      <node id="Thad Cochran" label="Thad Cochran" />
+      <node id="Mitch McConnell" label="Mitch McConnell" />
+      <node id="John Boozman" label="John Boozman" />
+      <node id="John Hoeven" label="John Hoeven" />
+      <node id="Joni Ernst" label="Joni Ernst" />
+      <node id="Chuck Grassley" label="Chuck Grassley" />
+      <node id="John Thune" label="John Thune" />
+      <node id="Steve Daines" label="Steve Daines" />
+      <node id="David Perdue" label="David Perdue" />
+      <node id="Luther Strange" label="Luther Strange" />
+      <node id="Debbie Stabenow" label="Debbie Stabenow" />
+      <node id="Patrick Leahy" label="Patrick Leahy" />
+      <node id="Sherrod Brown" label="Sherrod Brown" />
+      <node id="Amy Klobuchar" label="Amy Klobuchar" />
+      <node id="Michael Bennet" label="Michael Bennet" />
+      <node id="Heidi Heitkamp" label="Heidi Heitkamp" />
+      <node id="Bob Casey Jr." label="Bob Casey Jr." />
+      <node id="Chris Van Hollen" label="Chris Van Hollen" />
+      <node id=" Appropriations" label=" Appropriations" />
+      <node id="Richard Shelby" label="Richard Shelby" />
+      <node id="Lamar Alexander" label="Lamar Alexander" />
+      <node id="Lisa Murkowski" label="Lisa Murkowski" />
+      <node id="Lindsey Graham" label="Lindsey Graham" />
+      <node id="Roy Blunt" label="Roy Blunt" />
+      <node id="Jerry Moran" label="Jerry Moran" />
+      <node id="Shelly Moore Capito" label="Shelly Moore Capito" />
+      <node id="James Lankford" label="James Lankford" />
+      <node id="John Neely Kennedy" label="John Neely Kennedy" />
+      <node id="Patty Murray" label="Patty Murray" />
+      <node id="Dianne Feinstein" label="Dianne Feinstein" />
+      <node id="Dick Durbin" label="Dick Durbin" />
+      <node id="Jack Reed" label="Jack Reed" />
+      <node id="Jon Tester" label="Jon Tester" />
+      <node id="Tom Udall" label="Tom Udall" />
+      <node id="Jeanne Shaheen" label="Jeanne Shaheen" />
+      <node id="Jeff Merkley" label="Jeff Merkley" />
+      <node id="Chris Coons" label="Chris Coons" />
+      <node id="Brian Schatz" label="Brian Schatz" />
+      <node id="Tammy Baldwin" label="Tammy Baldwin" />
+      <node id="Chris Murphy" label="Chris Murphy" />
+      <node id="Joe Manchin" label="Joe Manchin" />
+      <node id="John McCain" label="John McCain" />
+      <node id=" Armed Services" label=" Armed Services" />
+      <node id="Jim Inhofe" label="Jim Inhofe" />
+      <node id="Roger Wicker" label="Roger Wicker" />
+      <node id="Tom Cotton" label="Tom Cotton" />
+      <node id="Mike Rounds" label="Mike Rounds" />
+      <node id="Dan Sullivan" label="Dan Sullivan" />
+      <node id="Ted Cruz" label="Ted Cruz" />
+      <node id="Ben Sasse" label="Ben Sasse" />
+      <node id="Claire McCaskill" label="Claire McCaskill" />
+      <node id="Mazie Hirono" label="Mazie Hirono" />
+      <node id="Tim Kaine" label="Tim Kaine" />
+      <node id="Angus King" label="Angus King" />
+      <node id="Martin Heinrich" label="Martin Heinrich" />
+      <node id="Gary Peters" label="Gary Peters" />
+      <node id="Mike Crapo" label="Mike Crapo" />
+      <node id=" Banking Housing Urban Affairs" label=" Banking Housing Urban Affairs" />
+      <node id="Pat Toomey" label="Pat Toomey" />
+      <node id="Dean Heller" label="Dean Heller" />
+      <node id="Bob Menendez" label="Bob Menendez" />
+      <node id="Mark Warner" label="Mark Warner" />
+      <node id="Mike Enzi" label="Mike Enzi" />
+      <node id=" Budget" label=" Budget" />
+      <node id="Ron Johnson" label="Ron Johnson" />
+      <node id="Cory Gardner" label="Cory Gardner" />
+      <node id="Bernie Sanders" label="Bernie Sanders" />
+      <node id="Ron Wyden" label="Ron Wyden" />
+      <node id="Kamala Harris" label="Kamala Harris" />
+      <node id=" Commerce Science &amp; Transportation" label=" Commerce Science &amp; Transportation" />
+      <node id="Mike Lee" label="Mike Lee" />
+      <node id="Shelley Moore Capito" label="Shelley Moore Capito" />
+      <node id="Todd Young" label="Todd Young" />
+      <node id="Maria Cantwell" label="Maria Cantwell" />
+      <node id="Ed Markey" label="Ed Markey" />
+      <node id="Cory Booker" label="Cory Booker" />
+      <node id="Tammy Duckworth" label="Tammy Duckworth" />
+      <node id="Maggie Hassan" label="Maggie Hassan" />
+      <node id=" Energy &amp; Natural Resources" label=" Energy &amp; Natural Resources" />
+      <node id="John Barrasso" label="John Barrasso" />
+      <node id="Jim Risch" label="Jim Risch" />
+      <node id="Bill Cassidy" label="Bill Cassidy" />
+      <node id="Rob Portman" label="Rob Portman" />
+      <node id="Al Franken" label="Al Franken" />
+      <node id="Johnny Isakson" label="Johnny Isakson" />
+      <node id=" Ethics" label=" Ethics" />
+      <node id=" Environment and Public Works" label=" Environment and Public Works" />
+      <node id="Tom Carper" label="Tom Carper" />
+      <node id="Ben Cardin" label="Ben Cardin" />
+      <node id=" Finance" label=" Finance" />
+      <node id="John Cornyn" label="John Cornyn" />
+      <node id=" Foreign Relations" label=" Foreign Relations" />
+      <node id="Rand Paul" label="Rand Paul" />
+      <node id=" Health Education Labor and Pensions" label=" Health Education Labor and Pensions" />
+      <node id=" Homeland Security" label=" Homeland Security" />
+      <node id=" Indian Affairs" label=" Indian Affairs" />
+      <node id=" Select Committee on Intelligence" label=" Select Committee on Intelligence" />
+      <node id=" Senate Narcotics Caucus" label=" Senate Narcotics Caucus" />
+      <node id=" Judiciary" label=" Judiciary" />
+      <node id="Ranking Member" label="Ranking Member" />
+      <node id=" Rules and Administration" label=" Rules and Administration" />
+      <node id="Chuck Schumer" label="Chuck Schumer" />
+      <node id=" Small Business and Entrepreneurship" label=" Small Business and Entrepreneurship" />
+      <node id=" VA" label=" VA" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Susan Collins" target=" Committee on Aging" />
+      <edge id="1" source="Susan Collins" target=" Appropriations" />
+      <edge id="2" source="Susan Collins" target=" Health Education Labor and Pensions" />
+      <edge id="3" source="Susan Collins" target=" Select Committee on Intelligence" />
+      <edge id="4" source=" Committee on Aging" target="Orrin Hatch" />
+      <edge id="5" source=" Committee on Aging" target="Jeff Flake" />
+      <edge id="6" source=" Committee on Aging" target="Tim Scott" />
+      <edge id="7" source=" Committee on Aging" target="Thom Tillis" />
+      <edge id="8" source=" Committee on Aging" target="Bob Corker" />
+      <edge id="9" source=" Committee on Aging" target="Richard Burr" />
+      <edge id="10" source=" Committee on Aging" target="Marco Rubio" />
+      <edge id="11" source=" Committee on Aging" target="Deb Fischer" />
+      <edge id="12" source=" Committee on Aging" target="Bob Casey" />
+      <edge id="13" source=" Committee on Aging" target="Bill Nelson" />
+      <edge id="14" source=" Committee on Aging" target="Sheldon Whitehouse" />
+      <edge id="15" source=" Committee on Aging" target="Kirsten Gillibrand" />
+      <edge id="16" source=" Committee on Aging" target="Richard Blumenthal" />
+      <edge id="17" source=" Committee on Aging" target="Joe Donnelly" />
+      <edge id="18" source=" Committee on Aging" target="Elizabeth Warren" />
+      <edge id="19" source=" Committee on Aging" target="Catherine Cortez Masto" />
+      <edge id="20" source="Orrin Hatch" target=" Finance" />
+      <edge id="21" source="Orrin Hatch" target=" Health Education Labor and Pensions" />
+      <edge id="22" source="Orrin Hatch" target=" Judiciary" />
+      <edge id="23" source="Jeff Flake" target=" Energy &amp; Natural Resources" />
+      <edge id="24" source="Jeff Flake" target=" Foreign Relations" />
+      <edge id="25" source="Jeff Flake" target=" Judiciary" />
+      <edge id="26" source="Tim Scott" target=" Banking Housing Urban Affairs" />
+      <edge id="27" source="Tim Scott" target=" Finance" />
+      <edge id="28" source="Tim Scott" target=" Health Education Labor and Pensions" />
+      <edge id="29" source="Tim Scott" target=" Small Business and Entrepreneurship" />
+      <edge id="30" source="Thom Tillis" target=" Armed Services" />
+      <edge id="31" source="Thom Tillis" target=" Banking Housing Urban Affairs" />
+      <edge id="32" source="Thom Tillis" target=" Judiciary" />
+      <edge id="33" source="Thom Tillis" target=" VA" />
+      <edge id="34" source="Bob Corker" target=" Banking Housing Urban Affairs" />
+      <edge id="35" source="Bob Corker" target=" Budget" />
+      <edge id="36" source="Bob Corker" target=" Foreign Relations" />
+      <edge id="37" source="Richard Burr" target=" Finance" />
+      <edge id="38" source="Richard Burr" target=" Health Education Labor and Pensions" />
+      <edge id="39" source="Richard Burr" target=" Select Committee on Intelligence" />
+      <edge id="40" source="Marco Rubio" target=" Appropriations" />
+      <edge id="41" source="Marco Rubio" target=" Foreign Relations" />
+      <edge id="42" source="Marco Rubio" target=" Select Committee on Intelligence" />
+      <edge id="43" source="Marco Rubio" target=" Small Business and Entrepreneurship" />
+      <edge id="44" source="Deb Fischer" target=" Armed Services" />
+      <edge id="45" source="Deb Fischer" target=" Commerce Science &amp; Transportation" />
+      <edge id="46" source="Deb Fischer" target=" Environment and Public Works" />
+      <edge id="47" source="Deb Fischer" target=" Rules and Administration" />
+      <edge id="48" source="Bob Casey" target=" Finance" />
+      <edge id="49" source="Bill Nelson" target=" Armed Services" />
+      <edge id="50" source="Bill Nelson" target=" Commerce Science &amp; Transportation" />
+      <edge id="51" source="Bill Nelson" target=" Finance" />
+      <edge id="52" source="Sheldon Whitehouse" target=" Budget" />
+      <edge id="53" source="Sheldon Whitehouse" target=" Environment and Public Works" />
+      <edge id="54" source="Sheldon Whitehouse" target=" Health Education Labor and Pensions" />
+      <edge id="55" source="Sheldon Whitehouse" target=" Senate Narcotics Caucus" />
+      <edge id="56" source="Sheldon Whitehouse" target=" Judiciary" />
+      <edge id="57" source="Kirsten Gillibrand" target=" Agriculture Nutrition Forestry" />
+      <edge id="58" source="Kirsten Gillibrand" target=" Armed Services" />
+      <edge id="59" source="Kirsten Gillibrand" target=" Environment and Public Works" />
+      <edge id="60" source="Richard Blumenthal" target=" Armed Services" />
+      <edge id="61" source="Richard Blumenthal" target=" Commerce Science &amp; Transportation" />
+      <edge id="62" source="Richard Blumenthal" target=" Judiciary" />
+      <edge id="63" source="Richard Blumenthal" target=" VA" />
+      <edge id="64" source="Joe Donnelly" target=" Agriculture Nutrition Forestry" />
+      <edge id="65" source="Joe Donnelly" target=" Armed Services" />
+      <edge id="66" source="Joe Donnelly" target=" Banking Housing Urban Affairs" />
+      <edge id="67" source="Elizabeth Warren" target=" Armed Services" />
+      <edge id="68" source="Elizabeth Warren" target=" Banking Housing Urban Affairs" />
+      <edge id="69" source="Elizabeth Warren" target=" Health Education Labor and Pensions" />
+      <edge id="70" source="Catherine Cortez Masto" target=" Banking Housing Urban Affairs" />
+      <edge id="71" source="Catherine Cortez Masto" target=" Commerce Science &amp; Transportation" />
+      <edge id="72" source="Catherine Cortez Masto" target=" Energy &amp; Natural Resources" />
+      <edge id="73" source="Catherine Cortez Masto" target=" Indian Affairs" />
+      <edge id="74" source="Catherine Cortez Masto" target=" Rules and Administration" />
+      <edge id="75" source="Pat Roberts" target=" Agriculture Nutrition Forestry" />
+      <edge id="76" source="Pat Roberts" target=" Ethics" />
+      <edge id="77" source="Pat Roberts" target=" Finance" />
+      <edge id="78" source="Pat Roberts" target=" Health Education Labor and Pensions" />
+      <edge id="79" source="Pat Roberts" target=" Rules and Administration" />
+      <edge id="80" source=" Agriculture Nutrition Forestry" target="Thad Cochran" />
+      <edge id="81" source=" Agriculture Nutrition Forestry" target="Mitch McConnell" />
+      <edge id="82" source=" Agriculture Nutrition Forestry" target="John Boozman" />
+      <edge id="83" source=" Agriculture Nutrition Forestry" target="John Hoeven" />
+      <edge id="84" source=" Agriculture Nutrition Forestry" target="Joni Ernst" />
+      <edge id="85" source=" Agriculture Nutrition Forestry" target="Chuck Grassley" />
+      <edge id="86" source=" Agriculture Nutrition Forestry" target="John Thune" />
+      <edge id="87" source=" Agriculture Nutrition Forestry" target="Steve Daines" />
+      <edge id="88" source=" Agriculture Nutrition Forestry" target="David Perdue" />
+      <edge id="89" source=" Agriculture Nutrition Forestry" target="Luther Strange" />
+      <edge id="90" source=" Agriculture Nutrition Forestry" target="Debbie Stabenow" />
+      <edge id="91" source=" Agriculture Nutrition Forestry" target="Patrick Leahy" />
+      <edge id="92" source=" Agriculture Nutrition Forestry" target="Sherrod Brown" />
+      <edge id="93" source=" Agriculture Nutrition Forestry" target="Amy Klobuchar" />
+      <edge id="94" source=" Agriculture Nutrition Forestry" target="Michael Bennet" />
+      <edge id="95" source=" Agriculture Nutrition Forestry" target="Heidi Heitkamp" />
+      <edge id="96" source=" Agriculture Nutrition Forestry" target="Bob Casey Jr." />
+      <edge id="97" source=" Agriculture Nutrition Forestry" target="Chris Van Hollen" />
+      <edge id="98" source="Thad Cochran" target=" Appropriations" />
+      <edge id="99" source="Thad Cochran" target=" Rules and Administration" />
+      <edge id="100" source="Mitch McConnell" target=" Appropriations" />
+      <edge id="101" source="Mitch McConnell" target=" Rules and Administration" />
+      <edge id="102" source="John Boozman" target=" Appropriations" />
+      <edge id="103" source="John Boozman" target=" Budget" />
+      <edge id="104" source="John Boozman" target=" Environment and Public Works" />
+      <edge id="105" source="John Boozman" target=" VA" />
+      <edge id="106" source="John Hoeven" target=" Appropriations" />
+      <edge id="107" source="John Hoeven" target=" Energy &amp; Natural Resources" />
+      <edge id="108" source="John Hoeven" target=" Homeland Security" />
+      <edge id="109" source="John Hoeven" target=" Indian Affairs" />
+      <edge id="110" source="Joni Ernst" target=" Armed Services" />
+      <edge id="111" source="Joni Ernst" target=" Environment and Public Works" />
+      <edge id="112" source="Joni Ernst" target=" Small Business and Entrepreneurship" />
+      <edge id="113" source="Chuck Grassley" target=" Budget" />
+      <edge id="114" source="Chuck Grassley" target=" Finance" />
+      <edge id="115" source="Chuck Grassley" target=" Senate Narcotics Caucus" />
+      <edge id="116" source="Chuck Grassley" target=" Judiciary" />
+      <edge id="117" source="John Thune" target=" Commerce Science &amp; Transportation" />
+      <edge id="118" source="John Thune" target=" Finance" />
+      <edge id="119" source="Steve Daines" target=" Appropriations" />
+      <edge id="120" source="Steve Daines" target=" Energy &amp; Natural Resources" />
+      <edge id="121" source="Steve Daines" target=" Homeland Security" />
+      <edge id="122" source="Steve Daines" target=" Indian Affairs" />
+      <edge id="123" source="David Perdue" target=" Armed Services" />
+      <edge id="124" source="David Perdue" target=" Banking Housing Urban Affairs" />
+      <edge id="125" source="David Perdue" target=" Budget" />
+      <edge id="126" source="Luther Strange" target=" Armed Services" />
+      <edge id="127" source="Luther Strange" target=" Budget" />
+      <edge id="128" source="Luther Strange" target=" Energy &amp; Natural Resources" />
+      <edge id="129" source="Debbie Stabenow" target=" Budget" />
+      <edge id="130" source="Debbie Stabenow" target=" Energy &amp; Natural Resources" />
+      <edge id="131" source="Debbie Stabenow" target=" Finance" />
+      <edge id="132" source="Patrick Leahy" target=" Appropriations" />
+      <edge id="133" source="Patrick Leahy" target=" Judiciary" />
+      <edge id="134" source="Patrick Leahy" target=" Rules and Administration" />
+      <edge id="135" source="Sherrod Brown" target=" Banking Housing Urban Affairs" />
+      <edge id="136" source="Sherrod Brown" target=" Finance" />
+      <edge id="137" source="Sherrod Brown" target=" VA" />
+      <edge id="138" source="Amy Klobuchar" target=" Commerce Science &amp; Transportation" />
+      <edge id="139" source="Amy Klobuchar" target=" Judiciary" />
+      <edge id="140" source="Amy Klobuchar" target=" Rules and Administration" />
+      <edge id="141" source="Michael Bennet" target=" Finance" />
+      <edge id="142" source="Michael Bennet" target=" Health Education Labor and Pensions" />
+      <edge id="143" source="Heidi Heitkamp" target=" Banking Housing Urban Affairs" />
+      <edge id="144" source="Heidi Heitkamp" target=" Homeland Security" />
+      <edge id="145" source="Heidi Heitkamp" target=" Indian Affairs" />
+      <edge id="146" source="Heidi Heitkamp" target=" Senate Narcotics Caucus" />
+      <edge id="147" source="Heidi Heitkamp" target=" Small Business and Entrepreneurship" />
+      <edge id="148" source="Bob Casey Jr." target=" Health Education Labor and Pensions" />
+      <edge id="149" source="Chris Van Hollen" target=" Appropriations" />
+      <edge id="150" source="Chris Van Hollen" target=" Banking Housing Urban Affairs" />
+      <edge id="151" source="Chris Van Hollen" target=" Budget" />
+      <edge id="152" source=" Appropriations" target="Richard Shelby" />
+      <edge id="153" source=" Appropriations" target="Lamar Alexander" />
+      <edge id="154" source=" Appropriations" target="Lisa Murkowski" />
+      <edge id="155" source=" Appropriations" target="Lindsey Graham" />
+      <edge id="156" source=" Appropriations" target="Roy Blunt" />
+      <edge id="157" source=" Appropriations" target="Jerry Moran" />
+      <edge id="158" source=" Appropriations" target="Shelly Moore Capito" />
+      <edge id="159" source=" Appropriations" target="James Lankford" />
+      <edge id="160" source=" Appropriations" target="John Neely Kennedy" />
+      <edge id="161" source=" Appropriations" target="Patty Murray" />
+      <edge id="162" source=" Appropriations" target="Dianne Feinstein" />
+      <edge id="163" source=" Appropriations" target="Dick Durbin" />
+      <edge id="164" source=" Appropriations" target="Jack Reed" />
+      <edge id="165" source=" Appropriations" target="Jon Tester" />
+      <edge id="166" source=" Appropriations" target="Tom Udall" />
+      <edge id="167" source=" Appropriations" target="Jeanne Shaheen" />
+      <edge id="168" source=" Appropriations" target="Jeff Merkley" />
+      <edge id="169" source=" Appropriations" target="Chris Coons" />
+      <edge id="170" source=" Appropriations" target="Brian Schatz" />
+      <edge id="171" source=" Appropriations" target="Tammy Baldwin" />
+      <edge id="172" source=" Appropriations" target="Chris Murphy" />
+      <edge id="173" source=" Appropriations" target="Joe Manchin" />
+      <edge id="174" source="Richard Shelby" target=" Banking Housing Urban Affairs" />
+      <edge id="175" source="Richard Shelby" target=" Environment and Public Works" />
+      <edge id="176" source="Richard Shelby" target=" Rules and Administration" />
+      <edge id="177" source="Lamar Alexander" target=" Energy &amp; Natural Resources" />
+      <edge id="178" source="Lamar Alexander" target=" Health Education Labor and Pensions" />
+      <edge id="179" source="Lamar Alexander" target=" Rules and Administration" />
+      <edge id="180" source="Lisa Murkowski" target=" Energy &amp; Natural Resources" />
+      <edge id="181" source="Lisa Murkowski" target=" Health Education Labor and Pensions" />
+      <edge id="182" source="Lisa Murkowski" target=" Indian Affairs" />
+      <edge id="183" source="Lindsey Graham" target=" Armed Services" />
+      <edge id="184" source="Lindsey Graham" target=" Budget" />
+      <edge id="185" source="Lindsey Graham" target=" Judiciary" />
+      <edge id="186" source="Roy Blunt" target=" Commerce Science &amp; Transportation" />
+      <edge id="187" source="Roy Blunt" target=" Select Committee on Intelligence" />
+      <edge id="188" source="Roy Blunt" target=" Rules and Administration" />
+      <edge id="189" source="Jerry Moran" target=" Commerce Science &amp; Transportation" />
+      <edge id="190" source="Jerry Moran" target=" Environment and Public Works" />
+      <edge id="191" source="Jerry Moran" target=" Indian Affairs" />
+      <edge id="192" source="Jerry Moran" target=" VA" />
+      <edge id="193" source="James Lankford" target=" Homeland Security" />
+      <edge id="194" source="James Lankford" target=" Indian Affairs" />
+      <edge id="195" source="James Lankford" target=" Select Committee on Intelligence" />
+      <edge id="196" source="John Neely Kennedy" target=" Banking Housing Urban Affairs" />
+      <edge id="197" source="John Neely Kennedy" target=" Budget" />
+      <edge id="198" source="John Neely Kennedy" target=" Judiciary" />
+      <edge id="199" source="John Neely Kennedy" target=" Small Business and Entrepreneurship" />
+      <edge id="200" source="Patty Murray" target=" Budget" />
+      <edge id="201" source="Patty Murray" target=" Health Education Labor and Pensions" />
+      <edge id="202" source="Patty Murray" target=" VA" />
+      <edge id="203" source="Dianne Feinstein" target=" Select Committee on Intelligence" />
+      <edge id="204" source="Dianne Feinstein" target=" Senate Narcotics Caucus" />
+      <edge id="205" source="Dianne Feinstein" target=" Judiciary" />
+      <edge id="206" source="Dianne Feinstein" target=" Rules and Administration" />
+      <edge id="207" source="Dick Durbin" target=" Judiciary" />
+      <edge id="208" source="Dick Durbin" target=" Rules and Administration" />
+      <edge id="209" source="Jack Reed" target=" Armed Services" />
+      <edge id="210" source="Jack Reed" target=" Banking Housing Urban Affairs" />
+      <edge id="211" source="Jon Tester" target=" Banking Housing Urban Affairs" />
+      <edge id="212" source="Jon Tester" target=" Homeland Security" />
+      <edge id="213" source="Jon Tester" target=" Indian Affairs" />
+      <edge id="214" source="Jon Tester" target=" VA" />
+      <edge id="215" source="Tom Udall" target=" Commerce Science &amp; Transportation" />
+      <edge id="216" source="Tom Udall" target=" Foreign Relations" />
+      <edge id="217" source="Tom Udall" target=" Indian Affairs" />
+      <edge id="218" source="Tom Udall" target=" Rules and Administration" />
+      <edge id="219" source="Jeanne Shaheen" target=" Armed Services" />
+      <edge id="220" source="Jeanne Shaheen" target=" Ethics" />
+      <edge id="221" source="Jeanne Shaheen" target=" Foreign Relations" />
+      <edge id="222" source="Jeanne Shaheen" target=" Small Business and Entrepreneurship" />
+      <edge id="223" source="Jeff Merkley" target=" Budget" />
+      <edge id="224" source="Jeff Merkley" target=" Environment and Public Works" />
+      <edge id="225" source="Jeff Merkley" target=" Foreign Relations" />
+      <edge id="226" source="Chris Coons" target=" Ethics" />
+      <edge id="227" source="Chris Coons" target=" Foreign Relations" />
+      <edge id="228" source="Chris Coons" target=" Judiciary" />
+      <edge id="229" source="Chris Coons" target=" Small Business and Entrepreneurship" />
+      <edge id="230" source="Brian Schatz" target=" Banking Housing Urban Affairs" />
+      <edge id="231" source="Brian Schatz" target=" Commerce Science &amp; Transportation" />
+      <edge id="232" source="Brian Schatz" target=" Ethics" />
+      <edge id="233" source="Brian Schatz" target=" Indian Affairs" />
+      <edge id="234" source="Tammy Baldwin" target=" Commerce Science &amp; Transportation" />
+      <edge id="235" source="Tammy Baldwin" target=" Health Education Labor and Pensions" />
+      <edge id="236" source="Chris Murphy" target=" Foreign Relations" />
+      <edge id="237" source="Chris Murphy" target=" Health Education Labor and Pensions" />
+      <edge id="238" source="Joe Manchin" target=" Energy &amp; Natural Resources" />
+      <edge id="239" source="Joe Manchin" target=" Select Committee on Intelligence" />
+      <edge id="240" source="Joe Manchin" target=" VA" />
+      <edge id="241" source="John McCain" target=" Armed Services" />
+      <edge id="242" source="John McCain" target=" Homeland Security" />
+      <edge id="243" source="John McCain" target=" Indian Affairs" />
+      <edge id="244" source=" Armed Services" target="Jim Inhofe" />
+      <edge id="245" source=" Armed Services" target="Roger Wicker" />
+      <edge id="246" source=" Armed Services" target="Tom Cotton" />
+      <edge id="247" source=" Armed Services" target="Mike Rounds" />
+      <edge id="248" source=" Armed Services" target="Dan Sullivan" />
+      <edge id="249" source=" Armed Services" target="Ted Cruz" />
+      <edge id="250" source=" Armed Services" target="Ben Sasse" />
+      <edge id="251" source=" Armed Services" target="Claire McCaskill" />
+      <edge id="252" source=" Armed Services" target="Mazie Hirono" />
+      <edge id="253" source=" Armed Services" target="Tim Kaine" />
+      <edge id="254" source=" Armed Services" target="Angus King" />
+      <edge id="255" source=" Armed Services" target="Martin Heinrich" />
+      <edge id="256" source=" Armed Services" target="Gary Peters" />
+      <edge id="257" source="Jim Inhofe" target=" Commerce Science &amp; Transportation" />
+      <edge id="258" source="Jim Inhofe" target=" Environment and Public Works" />
+      <edge id="259" source="Jim Inhofe" target=" Small Business and Entrepreneurship" />
+      <edge id="260" source="Roger Wicker" target=" Commerce Science &amp; Transportation" />
+      <edge id="261" source="Roger Wicker" target=" Environment and Public Works" />
+      <edge id="262" source="Roger Wicker" target=" Rules and Administration" />
+      <edge id="263" source="Tom Cotton" target=" Banking Housing Urban Affairs" />
+      <edge id="264" source="Tom Cotton" target=" Select Committee on Intelligence" />
+      <edge id="265" source="Mike Rounds" target=" Banking Housing Urban Affairs" />
+      <edge id="266" source="Mike Rounds" target=" Environment and Public Works" />
+      <edge id="267" source="Mike Rounds" target=" Small Business and Entrepreneurship" />
+      <edge id="268" source="Mike Rounds" target=" VA" />
+      <edge id="269" source="Dan Sullivan" target=" Commerce Science &amp; Transportation" />
+      <edge id="270" source="Dan Sullivan" target=" Environment and Public Works" />
+      <edge id="271" source="Dan Sullivan" target=" VA" />
+      <edge id="272" source="Ted Cruz" target=" Commerce Science &amp; Transportation" />
+      <edge id="273" source="Ted Cruz" target=" Judiciary" />
+      <edge id="274" source="Ted Cruz" target=" Rules and Administration" />
+      <edge id="275" source="Ben Sasse" target=" Banking Housing Urban Affairs" />
+      <edge id="276" source="Ben Sasse" target=" Judiciary" />
+      <edge id="277" source="Claire McCaskill" target=" Finance" />
+      <edge id="278" source="Claire McCaskill" target=" Homeland Security" />
+      <edge id="279" source="Mazie Hirono" target=" Energy &amp; Natural Resources" />
+      <edge id="280" source="Mazie Hirono" target=" Judiciary" />
+      <edge id="281" source="Mazie Hirono" target=" Small Business and Entrepreneurship" />
+      <edge id="282" source="Mazie Hirono" target=" VA" />
+      <edge id="283" source="Tim Kaine" target=" Budget" />
+      <edge id="284" source="Tim Kaine" target=" Foreign Relations" />
+      <edge id="285" source="Tim Kaine" target=" Health Education Labor and Pensions" />
+      <edge id="286" source="Angus King" target=" Budget" />
+      <edge id="287" source="Angus King" target=" Energy &amp; Natural Resources" />
+      <edge id="288" source="Angus King" target=" Select Committee on Intelligence" />
+      <edge id="289" source="Angus King" target=" Rules and Administration" />
+      <edge id="290" source="Martin Heinrich" target=" Energy &amp; Natural Resources" />
+      <edge id="291" source="Martin Heinrich" target=" Select Committee on Intelligence" />
+      <edge id="292" source="Gary Peters" target=" Commerce Science &amp; Transportation" />
+      <edge id="293" source="Gary Peters" target=" Homeland Security" />
+      <edge id="294" source="Mike Crapo" target=" Banking Housing Urban Affairs" />
+      <edge id="295" source="Mike Crapo" target=" Budget" />
+      <edge id="296" source="Mike Crapo" target=" Finance" />
+      <edge id="297" source="Mike Crapo" target=" Indian Affairs" />
+      <edge id="298" source="Mike Crapo" target=" Judiciary" />
+      <edge id="299" source=" Banking Housing Urban Affairs" target="Pat Toomey" />
+      <edge id="300" source=" Banking Housing Urban Affairs" target="Dean Heller" />
+      <edge id="301" source=" Banking Housing Urban Affairs" target="Bob Menendez" />
+      <edge id="302" source=" Banking Housing Urban Affairs" target="Mark Warner" />
+      <edge id="303" source="Pat Toomey" target=" Budget" />
+      <edge id="304" source="Pat Toomey" target=" Finance" />
+      <edge id="305" source="Dean Heller" target=" Commerce Science &amp; Transportation" />
+      <edge id="306" source="Dean Heller" target=" Finance" />
+      <edge id="307" source="Dean Heller" target=" VA" />
+      <edge id="308" source="Bob Menendez" target=" Finance" />
+      <edge id="309" source="Bob Menendez" target=" Foreign Relations" />
+      <edge id="310" source="Mark Warner" target=" Budget" />
+      <edge id="311" source="Mark Warner" target=" Finance" />
+      <edge id="312" source="Mark Warner" target=" Select Committee on Intelligence" />
+      <edge id="313" source="Mark Warner" target=" Rules and Administration" />
+      <edge id="314" source="Mike Enzi" target=" Budget" />
+      <edge id="315" source="Mike Enzi" target=" Finance" />
+      <edge id="316" source="Mike Enzi" target=" Health Education Labor and Pensions" />
+      <edge id="317" source="Mike Enzi" target=" Homeland Security" />
+      <edge id="318" source="Mike Enzi" target=" Small Business and Entrepreneurship" />
+      <edge id="319" source=" Budget" target="Ron Johnson" />
+      <edge id="320" source=" Budget" target="Cory Gardner" />
+      <edge id="321" source=" Budget" target="Bernie Sanders" />
+      <edge id="322" source=" Budget" target="Ron Wyden" />
+      <edge id="323" source=" Budget" target="Kamala Harris" />
+      <edge id="324" source="Ron Johnson" target=" Commerce Science &amp; Transportation" />
+      <edge id="325" source="Ron Johnson" target=" Foreign Relations" />
+      <edge id="326" source="Ron Johnson" target=" Homeland Security" />
+      <edge id="327" source="Cory Gardner" target=" Commerce Science &amp; Transportation" />
+      <edge id="328" source="Cory Gardner" target=" Energy &amp; Natural Resources" />
+      <edge id="329" source="Cory Gardner" target=" Foreign Relations" />
+      <edge id="330" source="Bernie Sanders" target=" Energy &amp; Natural Resources" />
+      <edge id="331" source="Bernie Sanders" target=" Environment and Public Works" />
+      <edge id="332" source="Bernie Sanders" target=" Health Education Labor and Pensions" />
+      <edge id="333" source="Bernie Sanders" target=" VA" />
+      <edge id="334" source="Ron Wyden" target=" Energy &amp; Natural Resources" />
+      <edge id="335" source="Ron Wyden" target=" Finance" />
+      <edge id="336" source="Ron Wyden" target=" Select Committee on Intelligence" />
+      <edge id="337" source="Kamala Harris" target=" Environment and Public Works" />
+      <edge id="338" source="Kamala Harris" target=" Homeland Security" />
+      <edge id="339" source="Kamala Harris" target=" Select Committee on Intelligence" />
+      <edge id="340" source=" Commerce Science &amp; Transportation" target="Mike Lee" />
+      <edge id="341" source=" Commerce Science &amp; Transportation" target="Shelley Moore Capito" />
+      <edge id="342" source=" Commerce Science &amp; Transportation" target="Todd Young" />
+      <edge id="343" source=" Commerce Science &amp; Transportation" target="Maria Cantwell" />
+      <edge id="344" source=" Commerce Science &amp; Transportation" target="Ed Markey" />
+      <edge id="345" source=" Commerce Science &amp; Transportation" target="Cory Booker" />
+      <edge id="346" source=" Commerce Science &amp; Transportation" target="Tammy Duckworth" />
+      <edge id="347" source=" Commerce Science &amp; Transportation" target="Maggie Hassan" />
+      <edge id="348" source="Mike Lee" target=" Energy &amp; Natural Resources" />
+      <edge id="349" source="Mike Lee" target=" Judiciary" />
+      <edge id="350" source="Shelley Moore Capito" target=" Environment and Public Works" />
+      <edge id="351" source="Shelley Moore Capito" target=" Rules and Administration" />
+      <edge id="352" source="Todd Young" target=" Foreign Relations" />
+      <edge id="353" source="Todd Young" target=" Health Education Labor and Pensions" />
+      <edge id="354" source="Todd Young" target=" Small Business and Entrepreneurship" />
+      <edge id="355" source="Maria Cantwell" target=" Energy &amp; Natural Resources" />
+      <edge id="356" source="Maria Cantwell" target=" Finance" />
+      <edge id="357" source="Maria Cantwell" target=" Indian Affairs" />
+      <edge id="358" source="Maria Cantwell" target=" Small Business and Entrepreneurship" />
+      <edge id="359" source="Ed Markey" target=" Environment and Public Works" />
+      <edge id="360" source="Ed Markey" target=" Foreign Relations" />
+      <edge id="361" source="Ed Markey" target=" Small Business and Entrepreneurship" />
+      <edge id="362" source="Cory Booker" target=" Environment and Public Works" />
+      <edge id="363" source="Cory Booker" target=" Foreign Relations" />
+      <edge id="364" source="Cory Booker" target=" Small Business and Entrepreneurship" />
+      <edge id="365" source="Tammy Duckworth" target=" Energy &amp; Natural Resources" />
+      <edge id="366" source="Tammy Duckworth" target=" Environment and Public Works" />
+      <edge id="367" source="Tammy Duckworth" target=" Small Business and Entrepreneurship" />
+      <edge id="368" source="Maggie Hassan" target=" Health Education Labor and Pensions" />
+      <edge id="369" source="Maggie Hassan" target=" Homeland Security" />
+      <edge id="370" source=" Energy &amp; Natural Resources" target="John Barrasso" />
+      <edge id="371" source=" Energy &amp; Natural Resources" target="Jim Risch" />
+      <edge id="372" source=" Energy &amp; Natural Resources" target="Bill Cassidy" />
+      <edge id="373" source=" Energy &amp; Natural Resources" target="Rob Portman" />
+      <edge id="374" source=" Energy &amp; Natural Resources" target="Al Franken" />
+      <edge id="375" source="John Barrasso" target=" Environment and Public Works" />
+      <edge id="376" source="John Barrasso" target=" Foreign Relations" />
+      <edge id="377" source="John Barrasso" target=" Indian Affairs" />
+      <edge id="378" source="Jim Risch" target=" Ethics" />
+      <edge id="379" source="Jim Risch" target=" Foreign Relations" />
+      <edge id="380" source="Jim Risch" target=" Select Committee on Intelligence" />
+      <edge id="381" source="Jim Risch" target=" Senate Narcotics Caucus" />
+      <edge id="382" source="Jim Risch" target=" Small Business and Entrepreneurship" />
+      <edge id="383" source="Bill Cassidy" target=" Finance" />
+      <edge id="384" source="Bill Cassidy" target=" Health Education Labor and Pensions" />
+      <edge id="385" source="Bill Cassidy" target=" VA" />
+      <edge id="386" source="Rob Portman" target=" Finance" />
+      <edge id="387" source="Rob Portman" target=" Foreign Relations" />
+      <edge id="388" source="Rob Portman" target=" Homeland Security" />
+      <edge id="389" source="Al Franken" target=" Health Education Labor and Pensions" />
+      <edge id="390" source="Al Franken" target=" Indian Affairs" />
+      <edge id="391" source="Al Franken" target=" Judiciary" />
+      <edge id="392" source="Johnny Isakson" target=" Ethics" />
+      <edge id="393" source="Johnny Isakson" target=" Finance" />
+      <edge id="394" source="Johnny Isakson" target=" Foreign Relations" />
+      <edge id="395" source="Johnny Isakson" target=" Health Education Labor and Pensions" />
+      <edge id="396" source="Johnny Isakson" target=" VA" />
+      <edge id="397" source=" Environment and Public Works" target="Tom Carper" />
+      <edge id="398" source=" Environment and Public Works" target="Ben Cardin" />
+      <edge id="399" source="Tom Carper" target=" Finance" />
+      <edge id="400" source="Tom Carper" target=" Homeland Security" />
+      <edge id="401" source="Ben Cardin" target=" Finance" />
+      <edge id="402" source="Ben Cardin" target=" Foreign Relations" />
+      <edge id="403" source="Ben Cardin" target=" Small Business and Entrepreneurship" />
+      <edge id="404" source=" Finance" target="John Cornyn" />
+      <edge id="405" source="John Cornyn" target=" Select Committee on Intelligence" />
+      <edge id="406" source="John Cornyn" target=" Senate Narcotics Caucus" />
+      <edge id="407" source="John Cornyn" target=" Judiciary" />
+      <edge id="408" source=" Foreign Relations" target="Rand Paul" />
+      <edge id="409" source="Rand Paul" target=" Health Education Labor and Pensions" />
+      <edge id="410" source="Rand Paul" target=" Homeland Security" />
+      <edge id="411" source="Rand Paul" target=" Small Business and Entrepreneurship" />
+      <edge id="412" source=" Judiciary" target="Ranking Member" />
+      <edge id="413" source=" Rules and Administration" target="Chuck Schumer" />
+    </edges>
+  </graph>
+</gexf>
