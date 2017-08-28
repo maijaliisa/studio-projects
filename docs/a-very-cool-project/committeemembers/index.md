@@ -1,6 +1,6 @@
 ---
 
-title: The Senate Universe
+title: Visualizing Senate Universe
 layout: project
 
 ---
@@ -13,6 +13,9 @@ layout: project
 
 ![](peoplesenateuniverse@2x.png)
 
+![](BLACKBACKGROUNDcommitteeoverlapheatmap@2x.png)
 
 ![](updateduniverse@2x.png)
+
+
 
