@@ -11,5 +11,5 @@ layout: project
 
 <h6>The 115th Congress has already been marked by intense division over several key bills. But exploring the network created by Senate committee assignments can show interesting partisan divides and bipartisan interactions.</h6>
 
-![](network_for_github.png)
+![](updateduniverse@2x.png)
 
