@@ -41,25 +41,6 @@ TO MAKE YOUR FONTS AND LAYOUTS NICE AND LOVELY
 <!-- THE BODY OF THE HTML BEGINS HERE -->
 
 <body>
-
-<!-- 
-HERE IS MY VERY UNBEAUTIFUL BUT FUNCTIONALLY AWESOME DROP-DOWN MENU
-THE ID select–menu IS USED BY THE JQUERY FUNCTION WAY DOWN AT THE BOTTOM
- 
-
-
-
-<div id="dropdown">
-<select id="select-menu">
-            
-             <option value="0">All Groups</option>
-             <option value="1">2016/2017 Cases</option>
-             <option value="2">2014/2015 Cases</option>
-
- 
-
- </select>
--->
   
 </div>
 -->
@@ -71,16 +52,16 @@ WHEN YOU'RE DONE WITH ALL THE FANCY FUNCTIONALITY
 
 <div id='map'></div>
 <div id='articlePlace'> <strong>Mapping Recent SCOTUS Civil Rights Cases</strong>
-<p>Out of the sixty four Supreme Court cases in the 2016/2017 Supreme Court session, nine were about Civil Rights.</p>
-<p>Six of these nine cases ended with a unanimous ruling (8-0 or 9-0 based on when Gorsuch was brought on). </p> 
+<p>Out of the sixty four Supreme Court cases in the 2016/2017 Supreme Court session, nine were about Civil Rights.
+<p>Six of these nine cases ended with a unanimous ruling (8-0 or 9-0 based on when Gorsuch was brought on).  
 <p>Since 1948, most Supreme Court cases fell into the following categories:
 <li>Criminal Procedure      1949</li>
 <li>Economic Activity       1676</li>
 <li>Civil Rights            1402</li>
 <li>Judicial Power          1186</li>
-<li>First Amendment          667</p>
-<p>For this project, I wanted to isolate and explore just the Civil Rights cases by year and by state of origin.</p>
-<p><strong>Most popular word used by Justices in these cases:</strong></p> 
+<li>First Amendment          667
+For this project, I wanted to isolate and explore just the Civil Rights cases by year and by state of origin.
+<strong>Most popular word used by Justices in these cases:</strong>
 <ul><li>Chief Justice Roberts: counsel</li> 
 <li> Justice Alito: police</li> 
 <li> Justice Breyer: district
@@ -90,9 +71,6 @@ WHEN YOU'RE DONE WITH ALL THE FANCY FUNCTIONALITY
 <li> Justice Kennedy: warrant
 <li> Justice Sotomayor: officer
 
-Further exploration of the data later on: 
--Adding historical civil rights cases 
--Comparing Civil Rights cases with other categories
 
 
 <!-- 
