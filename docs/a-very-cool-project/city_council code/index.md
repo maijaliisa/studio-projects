@@ -1,3 +1,3 @@
-![](mayoralmap@2x.png)
+![](2mayoralmap@2x.png)
 
 ![](atlargemap@2x.png)
