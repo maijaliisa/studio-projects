@@ -15,7 +15,7 @@ For runners and non-runners alike, The Boston Marathon carries historic and near
 
 In this most elite and iconic race of the year, 42% traveled out of state or out of the country to compete. 
 
-![](boston@2x.png)
+![](EDITEDboston@2x.png)
 
 While California and New York far outpaced other states in terms of number of qualified runners, it was actually North Carolina and Texas that sent the most runners per capita to Boston this year. 
 
