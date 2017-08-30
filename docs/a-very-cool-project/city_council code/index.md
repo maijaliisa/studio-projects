@@ -24,7 +24,7 @@ This large crowd of candidates is a clear indication of frustration with Atlanta
 
 <h3>Incumbents In The Race</h3>
 
-![](incumbentpeople@2x.png) 
+![](NEWincumbentpeople@2x.png) 
 
 15 out of the 16 people currently serving as City Council members are seeking re-election or another seat within the legislator, and six out of the nine current members of the Board of Education are also hoping to maintain their seats. 
 
