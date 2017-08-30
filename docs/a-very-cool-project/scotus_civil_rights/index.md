@@ -1,6 +1,8 @@
+<!--
 <!DOCTYPE html>
 <html>
 <head>
+ -->
 	
 	<title>Recent Supreme Court Civil Rights Cases</title>
 
@@ -52,15 +54,19 @@ WHEN YOU'RE DONE WITH ALL THE FANCY FUNCTIONALITY
 
 <div id='map'></div>
 <div id='articlePlace'> <strong>Mapping Recent SCOTUS Civil Rights Cases</strong>
-<p>Out of the sixty four Supreme Court cases in the 2016/2017 Supreme Court session, nine were about Civil Rights.
-<p>Six of these nine cases ended with a unanimous ruling (8-0 or 9-0 based on when Gorsuch was brought on).  
+<p>Out of the sixty four Supreme Court cases in the 2016/2017 Supreme Court session, nine were about Civil Rights. Six of these nine cases ended with a unanimous ruling (8-0 or 9-0 based on when Gorsuch was brought on).
+
+In the last two years the Supreme Court has heard 32 Civil Rights cases, ranging from voting rights issues to police brutality. Exploring where these cases occured provides an interesting look at the evolving space of Civil Rights law in the United States. 
+ 
 <p>Since 1948, most Supreme Court cases fell into the following categories:
 <li>Criminal Procedure      1949</li>
 <li>Economic Activity       1676</li>
 <li>Civil Rights            1402</li>
 <li>Judicial Power          1186</li>
-<li>First Amendment          667
-For this project, I wanted to isolate and explore just the Civil Rights cases by year and by state of origin.
+<li>First Amendment          667</li>
+
+For this project, I wanted to isolate and explore just the Civil Rights cases in the last two years based on state of origin.
+
 <strong>Most popular word used by Justices in these cases:</strong>
 <ul><li>Chief Justice Roberts: counsel</li> 
 <li> Justice Alito: police</li> 
@@ -70,8 +76,6 @@ For this project, I wanted to isolate and explore just the Civil Rights cases by
 <li> Justice Kagan: question
 <li> Justice Kennedy: warrant
 <li> Justice Sotomayor: officer
-
-
 
 <!-- 
 THIS IS WHERE THE BROWSER LOADS IN YOUR GEO JASON INFORMATION
@@ -239,6 +243,7 @@ map.fitBounds(points.getBounds(), {padding: [120,120]});
 	});
 </script>
 
-
+<!-- 
 </body>
 </html>
+ -->
