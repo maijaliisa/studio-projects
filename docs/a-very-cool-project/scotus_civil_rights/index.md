@@ -81,20 +81,18 @@ WHEN YOU'RE DONE WITH ALL THE FANCY FUNCTIONALITY
 <li>First Amendment          667</p>
 <p>For this project, I wanted to isolate and explore just the Civil Rights cases by year and by state of origin.</p>
 <p><strong>Most popular word used by Justices in these cases:</strong></p> 
-<p><ul><li>Chief Justice Roberts: counsel</li></p> 
-<p><li> Justice Alito: police</li> </p>
-<p><li> Justice Breyer: district</p>
-<p><li> Justice Ginsburg: employee</p>  
-<p><li> Justice Gorsuch: discrimination</p>
-<p><li> Justice Kagan: question</p>
-<p><li> Justice Kennedy: warrant</p>
-<p><li> Justice Sotomayor: officer</p> </li></ul> 
+<ul><li>Chief Justice Roberts: counsel</li> 
+<li> Justice Alito: police</li> 
+<li> Justice Breyer: district
+<li> Justice Ginsburg: employee
+<li> Justice Gorsuch: discrimination
+<li> Justice Kagan: question
+<li> Justice Kennedy: warrant
+<li> Justice Sotomayor: officer
 
-<p>Further exploration of the data later on: 
+Further exploration of the data later on: 
 -Adding historical civil rights cases 
--Comparing Civil Rights cases with other categories</p>
-
-</div>
+-Comparing Civil Rights cases with other categories
 
 
 <!-- 
