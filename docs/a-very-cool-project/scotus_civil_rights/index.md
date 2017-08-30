@@ -241,7 +241,3 @@ map.fitBounds(points.getBounds(), {padding: [120,120]});
 	});
 	});
 </script>
-
-
-</body>
-</html>
