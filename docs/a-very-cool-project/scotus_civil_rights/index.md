@@ -1,8 +1,7 @@
-<!--
+
 <!DOCTYPE html>
 <html>
 <head>
- -->
 	
 	<title>Recent Supreme Court Civil Rights Cases</title>
 
@@ -243,7 +242,6 @@ map.fitBounds(points.getBounds(), {padding: [120,120]});
 	});
 </script>
 
-<!-- 
+
 </body>
 </html>
- -->
