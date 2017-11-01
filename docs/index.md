@@ -17,5 +17,5 @@ layout: default
 * [Visualizing The Senate Universe]({{ site.url }}/a-very-cool-project/committeemembers): Creating a network of senators based on their committee assignments in the 115th Congress
 
 * [Running as a Travel Industry]({{ site.url }}/a-very-cool-project/new_marathon copy): Exploring who qualified and traveled to compete in the 2017 Boston Marathon 
-*
+
 * [Quantifying Government Accountability]({{ site.url }}/a-very-cool-project/GitHubFirstGAO): Priority Recommendations in the Governmnent Accountability Office's database can show us an interesting look at the sta te of American Federal Agencies.
